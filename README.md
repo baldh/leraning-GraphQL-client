@@ -1,2 +1,3 @@
-# leraning-GraphQL-client
-Client app for learning GraphQL
+# Catstronauts - client
+
+The starting point of the `client` code for Odyssey Lift-off I course.
